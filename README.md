@@ -8,5 +8,5 @@ matplotlib
 h5py
 
 
-
+For more details, view the thesis report.
 Max Karlsson
