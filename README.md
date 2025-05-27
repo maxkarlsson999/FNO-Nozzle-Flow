@@ -8,4 +8,5 @@ See the requirements.txt file.
 
 
 For more details, view the thesis report.
+
 Max Karlsson
