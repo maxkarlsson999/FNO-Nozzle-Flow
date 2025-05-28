@@ -7,7 +7,7 @@ This code is part of a M.Sc. thesis that was conducted at Lunds Tekniska Högsko
 See the requirements.txt file. 
 
 # Data Files
-The data files are too large to be stored in a GitHub repo and can therefore be found in: 
+The data files are too large to be stored in a GitHub repo and can therefore be found in: https://drive.google.com/drive/folders/1o_yKgtRy_b4tLHNy5LWuscN-dL1NdQSp?usp=sharing 
 
 
 #
